@@ -6,7 +6,7 @@ this incarnation of kick-off template is an [angular2](https://angular.io/), sin
 
 ---
 
-kick-off-ng2-md is packed with all that stuff that usually comes with [angular-cli](https://cli.angular.io/)'s `ng new ...` command:
+kick-off-ng2-foundation6 is packed with all that stuff that usually comes with [angular-cli](https://cli.angular.io/)'s `ng new ...` command:
 
 - [typescript](https://www.typescriptlang.org/) and
 - [webpack](https://webpack.github.io/). already mentioned
